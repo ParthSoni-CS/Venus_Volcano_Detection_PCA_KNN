@@ -1,0 +1,6 @@
+Interpreter = pyhton 3.8.x
+libraries used - numpy, sklearn.transform, matplotlib
+
+Running the code:
+to run the code which has the main function cmd: python process.py 
+to run the code which helps in visualization cmd: python visualize.py
